@@ -32,7 +32,7 @@ This script creates a simple web interface using Streamlit:
 
 1. **Set Up the Environment**: Ensure all dependencies are installed as per the `Pipfile`.
 2. **Run the Application**: Start the Flask app using `sudo python app.py`.(provide root priviliges for scapy to work)
-3. **Start Scanning**: Use the Streamlit interface by running `streamlit run streamlit_app.py` to trigger IP scanning and threat detection.
+3. **Start Scanning**: Use the Streamlit interface by running `streamlit run streamlit_app.py` or access it directly at [Network Scanner Streamlit App](https://networkscanner.streamlit.app).
 
 ## Requirements
 
